@@ -1,0 +1,2 @@
+# IC_data_ShowIn_in_Python
+用Python绘制芯片的测试数据
